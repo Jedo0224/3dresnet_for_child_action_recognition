@@ -36,3 +36,8 @@
 
 ## result
 ![image](https://github.com/Jedo0224/3dresnet_for_child_action_recognition/assets/90050514/7d4f50ef-f608-4ac4-8512-2a95271a9815)
+
+![image](https://github.com/Jedo0224/3dresnet_for_child_action_recognition/assets/90050514/76c41b58-1536-4579-b916-0a26a142998e)
+
+
+
